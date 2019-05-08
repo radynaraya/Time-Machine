@@ -1,3 +1,3 @@
 import UIKit
 
-var str = "Hello, playground"
+var projects = ["2019 - iOS App", "2018 - MacOS App", "2017 - Web App"]
